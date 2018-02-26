@@ -11,6 +11,9 @@
 , "scripts": {
     "test": "make test"
   }
+, "dependencies": {
+    "tunnel-agent": "0.6.x"
+  }
 , "licenses" :
   [ { "type" : "MIT"
     , "url" : "http://github.com/ciaranj/node-oauth/raw/master/LICENSE"
